@@ -41,8 +41,8 @@ const Main = () => {
         <Achievement />
         <Blogs />
         <Talks />
-        <Twitter />
-        <Podcast />
+        {/* <Twitter /> */}
+        {/* <Podcast /> */}
         <Profile />
         <Footer />
         <Top />
